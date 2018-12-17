@@ -1,0 +1,556 @@
+{
+    "items": [
+        {
+            "item_id": "A1",
+            "item_name": "Stearns' Debut Album: \"Spark\"",
+            "item_amount": 3,
+            "min_bid": 5,
+            "bid_sheet": [
+                {
+                    "user_name": "Ursula Wolz",
+                    "paddle_num": 659,
+                    "bid_amount": 23.0
+                }
+            ]
+        },
+        {
+            "item_id": "A2",
+            "item_name": "Jafajems",
+            "item_amount": 0,
+            "min_bid": 10,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "A3",
+            "item_name": "Spotlights Photography Notecards - Flowers",
+            "item_amount": 2,
+            "min_bid": 20,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "A4",
+            "item_name": "Spotlights Photography Notecards - Holiday",
+            "item_amount": 2,
+            "min_bid": 20,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D1",
+            "item_name": "Burgers and Wine Party",
+            "item_amount": 15,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D2",
+            "item_name": "Cape Verdean Dinner Party",
+            "item_amount": 12,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D3",
+            "item_name": "Game of Thrones FINAL SEASON PREMIER",
+            "item_amount": 8,
+            "min_bid": 30,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D4",
+            "item_name": "Dinner & Discussion",
+            "item_amount": 10,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D5",
+            "item_name": "Italian Feast",
+            "item_amount": 20,
+            "min_bid": 60,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D6",
+            "item_name": "Blade Runner Viewing Party.",
+            "item_amount": 6,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D7",
+            "item_name": "Backyard Pulled Pork and Bonfire",
+            "item_amount": 20,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D8",
+            "item_name": "Modernism in Montclair Hike and Dinner",
+            "item_amount": 10,
+            "min_bid": 40,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D9",
+            "item_name": "Comfort Food and Movie",
+            "item_amount": 8,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D10",
+            "item_name": "TGIF Party on the Porch",
+            "item_amount": 22,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D11",
+            "item_name": "A Little South for your mouth: Dinner at Nana?\ufffd?s house",
+            "item_amount": 10,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "D12",
+            "item_name": "French Country Dinner",
+            "item_amount": 8,
+            "min_bid": 30,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "E1",
+            "item_name": "Two hours tutoring in chemistry, physics or math for high/middle school",
+            "item_amount": 0,
+            "min_bid": 30,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "E3",
+            "item_name": "Book Discussion (and book): A Kind of Freedom",
+            "item_amount": 12,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "E4",
+            "item_name": "Zentangle Class",
+            "item_amount": 7,
+            "min_bid": 10,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "E5",
+            "item_name": "Tai Chi for Health and Well-Being",
+            "item_amount": 15,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "E6",
+            "item_name": "Make your own violet leaf lip balm & other herbal remedies for comfort and care",
+            "item_amount": 3,
+            "min_bid": 15,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "E7",
+            "item_name": "Introduction to Eurorack Modular Synthesis. Quantity: 2. Value $80, minimum bid",
+            "item_amount": 2,
+            "min_bid": 30,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "E8",
+            "item_name": "Afternoon Sketching Class for Kids",
+            "item_amount": 6,
+            "min_bid": 5,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "X1",
+            "item_name": "Guided waterfall adventure hike in South Mountain Reservation, Maplewood",
+            "item_amount": 15,
+            "min_bid": 5,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "X2",
+            "item_name": "Guided tour of Great Falls of the Passaic River in Paterson New Jersey",
+            "item_amount": 15,
+            "min_bid": 7,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "X3",
+            "item_name": "Hike, Lunch, Hike on the Fairy House Trail in Millburn",
+            "item_amount": 15,
+            "min_bid": 5,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "X4",
+            "item_name": "Highlights of far Northwest Jersey",
+            "item_amount": 15,
+            "min_bid": 5,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "X5",
+            "item_name": "Yale School of Drama Show plus tour and lunch or dinner at the Union League Cafe",
+            "item_amount": 2,
+            "min_bid": 100,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "X6",
+            "item_name": "Brunch & Cherry Blossoms",
+            "item_amount": 9,
+            "min_bid": 15,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "X7",
+            "item_name": "Beauty and the Beast",
+            "item_amount": 3,
+            "min_bid": 90,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F1",
+            "item_name": "ONE MONTH OF DESSERT!",
+            "item_amount": 0,
+            "min_bid": 50,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F2",
+            "item_name": "Instant Chili Party - Ideal for that certain Sunday, or any big game!",
+            "item_amount": 0,
+            "min_bid": 50,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F3",
+            "item_name": "Pumpkin Maple Cheesecake with a Maple Pecan Glaze",
+            "item_amount": 2,
+            "min_bid": 38,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F4",
+            "item_name": "Blondies ( with walnuts and chocolate chips )",
+            "item_amount": 4,
+            "min_bid": 20,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F5",
+            "item_name": "Key Lime Cheesecake",
+            "item_amount": 3,
+            "min_bid": 38,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F6",
+            "item_name": "A Chocolate Dessert of your Choice",
+            "item_amount": 2,
+            "min_bid": 15,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F7",
+            "item_name": "a dozen vegan cupcakes!",
+            "item_amount": 0,
+            "min_bid": 8,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F8",
+            "item_name": "Vegan Cake!",
+            "item_amount": 0,
+            "min_bid": 10,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F9",
+            "item_name": "Pot of Soup to Warm a Cold Night",
+            "item_amount": 2,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F10",
+            "item_name": "Laboratorio Kitchen",
+            "item_amount": 0,
+            "min_bid": 10,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "F11",
+            "item_name": "Choose an Entree for a MESH meal",
+            "item_amount": 0,
+            "min_bid": 50,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "S1",
+            "item_name": "Tennis Lessons for Any Age",
+            "item_amount": 2,
+            "min_bid": 75,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "S2",
+            "item_name": "Weekend Dog Sitting",
+            "item_amount": 0,
+            "min_bid": 85,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "S3",
+            "item_name": "Break Thru to Something New--Free Coaching Sessions",
+            "item_amount": 0,
+            "min_bid": 75,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "S4",
+            "item_name": "Financial Planning",
+            "item_amount": 0,
+            "min_bid": 150,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "S5",
+            "item_name": "LIVE MUSIC FOR YOUR PARTY",
+            "item_amount": 0,
+            "min_bid": 75,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "V1",
+            "item_name": "A Week in the Catskills",
+            "item_amount": 0,
+            "min_bid": 350,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "V2",
+            "item_name": "Catskills Getaway",
+            "item_amount": 0,
+            "min_bid": 100,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M1",
+            "item_name": "NJ Symphony ZHANG & AX: TRANSFORMATION",
+            "item_amount": 0,
+            "min_bid": 100,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M2",
+            "item_name": "Two Complimentary tickets to the Public Theater",
+            "item_amount": 0,
+            "min_bid": 50,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M3",
+            "item_name": "Sermon of your Choosing",
+            "item_amount": 0,
+            "min_bid": 100,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M4",
+            "item_name": "Italian Pasta Bowl and 4 Plates",
+            "item_amount": 0,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M5",
+            "item_name": "Dinner plates",
+            "item_amount": 0,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M6",
+            "item_name": "Delicate desert plates",
+            "item_amount": 0,
+            "min_bid": 20,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M7",
+            "item_name": "2 Tickets to Clueless, The Musical at The New Group",
+            "item_amount": 2,
+            "min_bid": 100,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M8",
+            "item_name": "Bow Tie Claridge Cinema",
+            "item_amount": 0,
+            "min_bid": 5,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M9",
+            "item_name": "Your Favorite Hymn",
+            "item_amount": 3,
+            "min_bid": 30,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M10",
+            "item_name": "Two Holiday Wreaths",
+            "item_amount": 0,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "M11",
+            "item_name": "Sing Handel's Messiah with 3000 Audience Members at Lincoln Center",
+            "item_amount": 0,
+            "min_bid": 75,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P1",
+            "item_name": "The Annual Nick Lewis Wine Tasting",
+            "item_amount": 32,
+            "min_bid": 30,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P2",
+            "item_name": "Beer Vespers",
+            "item_amount": 30,
+            "min_bid": 20,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P3",
+            "item_name": "Book Club Evening",
+            "item_amount": 20,
+            "min_bid": 40,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P4",
+            "item_name": "Read and Recycle Book Swap",
+            "item_amount": 12,
+            "min_bid": 15,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P5",
+            "item_name": "Back from Summer Cocktail Party",
+            "item_amount": 40,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P6",
+            "item_name": "Paella Night",
+            "item_amount": 10,
+            "min_bid": 40,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P7",
+            "item_name": "New Year's Day Brunch",
+            "item_amount": 20,
+            "min_bid": 20,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P8",
+            "item_name": "Bake Off for Connection Cafe",
+            "item_amount": 12,
+            "min_bid": 10,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P9",
+            "item_name": "Stearns and Michael's Boozy Brunch Bash with the Boys!",
+            "item_amount": 12,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P10",
+            "item_name": "Greeting Card Making Party with Delicious Lunch",
+            "item_amount": 6,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P11",
+            "item_name": "Sunday Champagne Brunch",
+            "item_amount": 10,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P12",
+            "item_name": "Gin Jeanie Cocktail Party",
+            "item_amount": 16,
+            "min_bid": 12,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P13",
+            "item_name": "Bocce Tournament",
+            "item_amount": 30,
+            "min_bid": 10,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P14",
+            "item_name": "Poker & Scotch Party",
+            "item_amount": 14,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P15",
+            "item_name": "A St. Patrick's Eve Afternoon Party",
+            "item_amount": 18,
+            "min_bid": 40,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P16",
+            "item_name": "Jane Austen tea party and fan club",
+            "item_amount": 8,
+            "min_bid": 25,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P17",
+            "item_name": "Ugly Christmas Sweater Party!",
+            "item_amount": 12,
+            "min_bid": 30,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P18",
+            "item_name": "Jam Jam in your Jam Jams",
+            "item_amount": 12,
+            "min_bid": 15,
+            "bid_sheet": []
+        },
+        {
+            "item_id": "P19",
+            "item_name": "Inter-Generational Game Night with Senior Youth!",
+            "item_amount": 50,
+            "min_bid": 5,
+            "bid_sheet": []
+        }
+    ]
+}
